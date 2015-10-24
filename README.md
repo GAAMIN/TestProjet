@@ -5,4 +5,4 @@ nouvelle connerie
 
 koi d 9 ma poule
 
-depuis ma machin 
+depuis ma machin pas mal 
