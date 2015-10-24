@@ -1,0 +1,1 @@
+alert("koi de 99")
