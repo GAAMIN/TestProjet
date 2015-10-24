@@ -1,1 +1,2 @@
-alert("koi de 99")
+var.message="koi de 99"
+alert(message)
